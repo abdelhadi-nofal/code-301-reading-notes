@@ -15,7 +15,7 @@ _This is my profile on git hub : [My Profile](https://github.com/abdelhadi-nofal
  
  ***
  
-### we will learn new topics in this class such as:
+### we will learn new topics in code-301 such as:
 
 
 
