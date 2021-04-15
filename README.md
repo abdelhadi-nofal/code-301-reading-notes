@@ -9,9 +9,9 @@ _This is my profile on git hub : [My Profile](https://github.com/abdelhadi-nofal
  
  ***
  
- [Code 102 - Intro to Software Development](https://abdelhadi-nofal.github.io/code-201/)  
+ [Code 102 - Intro to Software Development](https://abdelhadi-nofal.github.io/reading-notes/)  
  
- [Code 201 - Foundations of Software Development](https://abdelhadi-nofal.github.io/reading-notes/)  
+ [Code 201 - Foundations of Software Development](https://abdelhadi-nofal.github.io/code-201/ )  
  
  [Code 301 - Intermediate Software Development](https://abdelhadi-nofal.github.io/code-301-reading-notes/) 
  
@@ -41,4 +41,4 @@ _This is my profile on git hub : [My Profile](https://github.com/abdelhadi-nofal
  | class-12                            |               |
  | class-13                            |              |
  | class-14                            |              |   
- | class-14-b                          |              |
+ | class-15                            |              |
