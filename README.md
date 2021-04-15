@@ -9,6 +9,12 @@ _This is my profile on git hub : [My Profile](https://github.com/abdelhadi-nofal
  
  ***
  
+ [code 101 & 102 reading notes](https://abdelhadi-nofal.github.io/code-201/)  
+ 
+ [code 201 reading notes](https://abdelhadi-nofal.github.io/reading-notes/)  
+ 
+ ***
+ 
 ### we will learn new topics in this class such as:
 
 
