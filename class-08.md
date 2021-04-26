@@ -27,7 +27,7 @@ This table might need to store the model name, type, number of wheels, and numbe
 
 ### Table: Vehicles
 
-https://i.ibb.co/2syNppZ/sololearn-jquery.png
+![](https://i.ibb.co/2syNppZ/sololearn-jquery.png)
 
 n such a database, you might find additional related tables containing information such as a list of all registered drivers in the state,
 the types of driving licenses that can be granted, or even driving violations for each driver.
